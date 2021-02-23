@@ -22,3 +22,7 @@
 [google] (https://google.com/)
 
 !(alt) https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMahesh_Babu&psig=AOvVaw3wdTCsnPlMSwpqUS8ulh4q&ust=1614158859504000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiBksvX_-4CFQAAAAAdAAAAABAD
+'def python():
+
+ table| table2
+ -----|-------
